@@ -23,3 +23,4 @@ function getRandomInteger(a, b){
 
 
 console.log(getRandomInteger(25, 100));
+//I learned that for loops in js are similar to for loops in java
